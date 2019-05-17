@@ -16,7 +16,7 @@ Neste teste, deverão ser feitas duas tarefas respeitando os seguintes itens
 
 [https://projects.invisionapp.com/share/G2RKZB9KXES#/screens/360630744](https://projects.invisionapp.com/share/G2RKZB9KXES#/screens/360630744)
 
-O link acima contém o layout das páginas de uma aplicação web. Tal aplicação é uma calculadora de produtos químicos que nós diz quanto uma fórmula química é saudável para o meio ambiente (indice de vegetalização). Tal aplicação deve respeitar os seguintes requisitos:
+O link acima contém o layout das páginas de uma aplicação web. Tal aplicação é uma calculadora de produtos químicos que nós diz o quanto uma fórmula química é saudável para o meio ambiente (indice de vegetalização). Tal aplicação deve respeitar os seguintes requisitos:
 
 1. Nessa aplicação, o usuário poderá montar fórmulas e analisar o índice de vegetalização dessas fórmulas. 
 2. Cada fórmula é composta por 1 ou mais produtos.
