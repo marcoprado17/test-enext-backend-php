@@ -40,6 +40,8 @@ Desenvolva uma API Rest para aplicação mencionada acima. Mencione no README.md
 
 Escolha e implemente apenas 2 páginas da aplicação. Mencione no README.md quais páginas você escolheu para implementar e onde essas páginas estão no código.
 
+## Boa Sorte!!!
+
 Casa haja alguma dúvida muito grande envie um email para back@enext.com.br esclarecendo-a dúvida que iremos respondê-la ASAP (As Soon As Possible)
 
 Lhe desejamos uma boa sorte nesse teste, não se distraia por nada quando estiver programando =P e se tudo der certo, você será super bem vindo para o time Enext!!!
