@@ -27,7 +27,7 @@ O link acima contém o layout das páginas de uma aplicação web. Tal aplicaç�
   3.3 Marca do produto;
   3.4 Índice de vegetalização: Indice de vegetalização do produto, um número inteiro de 0 a 100. Quanto maior, melhor é tal produto é para o meio ambiente.
 4. O índice de vegatalização de uma fórmula depende da concentração de uso de cada produto, bem como do índice de vegetalização desse produto. O índice de vegetalização da fórmula é a média aritmética ponderada do indice de vegetalização dos seus produtos. Dessa forma se tivessemos uma formula F1, composta pelos produtos P1 e P2, teriamos que I(F1) = C(P1) * I(P1) + C(P2) * I(P2) onde I representa o indice de vegetalização do produto ou da fórmula e C representa a concentração do produto nessa fórmula;
-5. É necessário que o usuário crie um script PHP ou SQL que insira alguns produtos BASF fake pré cadastrados na aplicação, ou seja, todos usuários tem acesso ao produtos BASF pré cadastrados;
+5. É necessário que você crie um script PHP ou SQL que insira alguns produtos BASF fake pré cadastrados na aplicação, ou seja, todos usuários tem acesso ao produtos BASF pré cadastrados;
 6. Na aplicação, o usuário pode adicionar novos produtos, que podem ser BASF ou não;
 7. Um usuário tem acesso a todos os produtos BASF pré-cadastrados, mas pode não consegue acessar produtos criados por outros usuários;
 8. Um endpoint obrigatório a ser imeplementado é o endpoint que retorna uma lista de produtos baseado em um INCI name fornecido. Tal endpoint será utilizado para fazer o auto-complete dos produtos na criação de fórmulas: na página de criação de uma fórmula o usuário iria digitar as letras iniciais do INCI name do produto que deseja e um select apareceria com os produtos compativeis com o INCI name que o usuário digitou.
@@ -44,9 +44,5 @@ Casa haja alguma dúvida muito grande envie um email para back@enext.com.br escl
 
 Lhe desejamos uma boa sorte nesse teste, não se distraia por nada quando estiver programando =P e se tudo der certo, você será super bem vindo para o time Enext!!!
 
-
-
-
-
-
-
+![](giphy.gif)
+![](enext.jpg)
