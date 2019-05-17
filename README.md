@@ -34,7 +34,7 @@ O link acima contém o layout das páginas de uma aplicação web. Tal aplicaç�
 
 ## Tarefa 1
 
-Desenvolva uma API Rest para aplicação mencionada acima. Mencione no README.md todos os endpoints, mas implemente apenas 7 deles, com obrigatoriedade do endpoint de busca de produtos baseado no INCI name.
+Desenvolva uma API Rest para aplicação mencionada acima. Mencione no README.md todos os endpoints, mas implemente apenas 7 deles, considerando a obrigatoriedade do endpoint de busca de produtos baseado no INCI name.
 
 ## Tarefa 2
 
