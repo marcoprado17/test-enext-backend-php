@@ -1,6 +1,6 @@
 # test-enext-backend-php
 
-Neste teste, deverão ser feitas duas tarefas respeitando os seguintes itens
+Neste teste, deverão ser feitas duas tarefas respeitando os seguintes itens:
 
 1. O backend deve ser feito em PHP;
 2. Pode ser utilizado qualquer banco de dados;
@@ -11,7 +11,7 @@ Neste teste, deverão ser feitas duas tarefas respeitando os seguintes itens
 7. É necessário definir e documentar como seriam todos os endpoints da aplicação, mas você pode implementar apenas 7 deles. Cite no README.md como seriam todos os endpoints da aplicação e mencione aqueles que você implementou;
 8. Em relação ao front-end, você deve escolher e implementar apenas 2 páginas da aplicação. Mencione no README.md quais páginas você escolheu para implementar e onde essas páginas estão no código;
 9. O layout fornecido para o projeto contém alguns pontos que podem ser ignorados. Caso haja alguma dúvida se você deve implementar ou não algum ponto use o seu bom senso e mencione no README.md as simplificações que considerou;
-10. É obrigatório a implementação do endpoint de auto-compplete de produtos.
+10. É obrigatório a implementação do endpoint de auto-complete de produtos.
 
 ## Aplicação a ser desenvolvida
 
@@ -41,3 +41,12 @@ Desenvolva uma API Rest para aplicação mencionada acima. Mencione no README.md
 Escolha e implemente apenas 2 páginas da aplicação. Mencione no README.md quais páginas você escolheu para implementar e onde essas páginas estão no código.
 
 Casa haja alguma dúvida muito grande envie um email para back@enext.com.br esclarecendo-a dúvida que iremos respondê-la ASAP (As Soon As Possible)
+
+Lhe desejamos uma boa sorte nesse teste, não se distraia por nada quando estiver programando =P e se tudo der certo, você será super bem vindo para o time Enext!!!
+
+
+
+
+
+
+
